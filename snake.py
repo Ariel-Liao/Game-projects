@@ -1,7 +1,7 @@
 import turtle
 import time
 import random
-
+#My project
 delayeachtime = 0.12
 
 #score
